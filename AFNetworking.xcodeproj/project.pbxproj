@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		00A02889261724D30023E081 /* MCEasyRecord.h in Headers */ = {isa = PBXBuildFile; fileRef = 00A02887261724D30023E081 /* MCEasyRecord.h */; };
+		00A0288A261724D30023E081 /* MCEasyRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = 00A02888261724D30023E081 /* MCEasyRecord.m */; };
 		1BF9F9601C87832B00F1F35A /* AFImageResponseSerializerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BF9F95F1C87832B00F1F35A /* AFImageResponseSerializerTests.m */; };
 		1BF9F9611C87843200F1F35A /* AFImageResponseSerializerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BF9F95F1C87832B00F1F35A /* AFImageResponseSerializerTests.m */; };
 		1BF9F9621C87843300F1F35A /* AFImageResponseSerializerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BF9F95F1C87832B00F1F35A /* AFImageResponseSerializerTests.m */; };
@@ -233,6 +235,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		00A02887261724D30023E081 /* MCEasyRecord.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MCEasyRecord.h; sourceTree = "<group>"; };
+		00A02888261724D30023E081 /* MCEasyRecord.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MCEasyRecord.m; sourceTree = "<group>"; };
 		1BF9F95F1C87832B00F1F35A /* AFImageResponseSerializerTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFImageResponseSerializerTests.m; sourceTree = "<group>"; };
 		1F083A4920364648004D80C7 /* AFCompatibilityMacros.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AFCompatibilityMacros.h; sourceTree = "<group>"; };
 		2960BAC21C1B2F1A00BA02F0 /* AFUIButtonTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFUIButtonTests.m; sourceTree = "<group>"; };
@@ -539,6 +543,8 @@
 				299522471BBF125A00859F49 /* AFHTTPSessionManager.m */,
 				299522491BBF125A00859F49 /* AFNetworkReachabilityManager.h */,
 				2995224A1BBF125A00859F49 /* AFNetworkReachabilityManager.m */,
+				00A02887261724D30023E081 /* MCEasyRecord.h */,
+				00A02888261724D30023E081 /* MCEasyRecord.m */,
 				2995224B1BBF125A00859F49 /* AFSecurityPolicy.h */,
 				2995224C1BBF125A00859F49 /* AFSecurityPolicy.m */,
 				2995224D1BBF125A00859F49 /* AFURLRequestSerialization.h */,
@@ -622,6 +628,7 @@
 				2995225A1BBF125A00859F49 /* AFURLRequestSerialization.h in Headers */,
 				299522531BBF125A00859F49 /* AFHTTPSessionManager.h in Headers */,
 				2995229C1BBF13C700859F49 /* AFAutoPurgingImageCache.h in Headers */,
+				00A02889261724D30023E081 /* MCEasyRecord.h in Headers */,
 				299522581BBF125A00859F49 /* AFSecurityPolicy.h in Headers */,
 				299522561BBF125A00859F49 /* AFNetworkReachabilityManager.h in Headers */,
 				299522A91BBF13C700859F49 /* UIImageView+AFNetworking.h in Headers */,
@@ -1079,6 +1086,7 @@
 				323D83E3231D185400C5BFC6 /* WKWebView+AFNetworking.m in Sources */,
 				2995225F1BBF125A00859F49 /* AFURLSessionManager.m in Sources */,
 				2995225B1BBF125A00859F49 /* AFURLRequestSerialization.m in Sources */,
+				00A0288A261724D30023E081 /* MCEasyRecord.m in Sources */,
 				2995229D1BBF13C700859F49 /* AFAutoPurgingImageCache.m in Sources */,
 				299522A31BBF13C700859F49 /* UIActivityIndicatorView+AFNetworking.m in Sources */,
 				2995225D1BBF125A00859F49 /* AFURLResponseSerialization.m in Sources */,
